@@ -19,12 +19,6 @@ optional arguments:
                         
                         
 ```
-
-
-
-
-
-
 """
 
 import argparse
