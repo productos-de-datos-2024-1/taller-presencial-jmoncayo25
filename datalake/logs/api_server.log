@@ -37,3 +37,11 @@
 2024-04-06 11:36:34,732:INFO: * Restarting with stat
 2024-04-06 11:36:35,067:WARNING: * Debugger is active!
 2024-04-06 11:36:35,068:INFO: * Debugger PIN: 999-582-993
+2024-04-06 11:38:40,887:INFO: * Detected change in '/home/usanovich/Documentos/GDrive/Universidad/ProductosDatos/Clase7/taller-presencial-jmoncayo25/src/6b_api_server/autograding.py', reloading
+2024-04-06 11:38:40,933:INFO: * Restarting with stat
+2024-04-06 11:38:41,295:WARNING: * Debugger is active!
+2024-04-06 11:38:41,295:INFO: * Debugger PIN: 999-582-993
+2024-04-06 11:39:54,716:INFO: * Detected change in '/home/usanovich/Documentos/GDrive/Universidad/ProductosDatos/Clase7/taller-presencial-jmoncayo25/src/6b_api_server/client_example.py', reloading
+2024-04-06 11:39:54,763:INFO: * Restarting with stat
+2024-04-06 11:39:55,117:WARNING: * Debugger is active!
+2024-04-06 11:39:55,117:INFO: * Debugger PIN: 999-582-993
