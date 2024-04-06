@@ -10,3 +10,22 @@
 2024-04-06 07:39:54,607:INFO: * Restarting with stat
 2024-04-06 07:39:54,941:WARNING: * Debugger is active!
 2024-04-06 07:39:54,941:INFO: * Debugger PIN: 999-582-993
+2024-04-06 07:52:24,658:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:52:24,658:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:52:24,659:INFO: * Restarting with stat
+2024-04-06 07:52:24,998:WARNING: * Debugger is active!
+2024-04-06 07:52:24,998:INFO: * Debugger PIN: 999-582-993
+2024-04-06 08:02:34,247:INFO: * Detected change in '/home/usanovich/Documentos/GDrive/Universidad/ProductosDatos/Clase7/taller-presencial-jmoncayo25/src/6b_api_server/client_example.py', reloading
+2024-04-06 08:02:34,289:INFO: * Restarting with stat
+2024-04-06 08:02:34,624:WARNING: * Debugger is active!
+2024-04-06 08:02:34,624:INFO: * Debugger PIN: 999-582-993
+2024-04-06 08:16:12,731:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:16:12,734:INFO:127.0.0.1 - - [06/Apr/2024 08:16:12] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 08:17:09,287:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:17:09,612:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:17:09,612:INFO:127.0.0.1 - - [06/Apr/2024 08:17:09] "POST / HTTP/1.1" 200 -
+2024-04-06 09:07:28,124:INFO: * Detected change in '/home/usanovich/Documentos/GDrive/Universidad/ProductosDatos/Clase7/taller-presencial-jmoncayo25/src/6b_api_server/client_example.py', reloading
+2024-04-06 09:07:28,214:INFO: * Restarting with stat
+2024-04-06 09:07:28,566:WARNING: * Debugger is active!
+2024-04-06 09:07:28,566:INFO: * Debugger PIN: 999-582-993
