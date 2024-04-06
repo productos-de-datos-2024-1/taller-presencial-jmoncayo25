@@ -8,7 +8,7 @@ import requests
 def make_request():
     """Make a request to the API server"""
 
-    url = "http://127.0.01:5001"
+    url = "http://127.0.0.1:5001"
     #url = "http://127.0.0.1:5001"
 
     data = {
