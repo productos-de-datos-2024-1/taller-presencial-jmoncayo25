@@ -33,3 +33,7 @@
 2024-04-06 09:21:22,215:INFO: * Restarting with stat
 2024-04-06 09:21:22,548:WARNING: * Debugger is active!
 2024-04-06 09:21:22,549:INFO: * Debugger PIN: 999-582-993
+2024-04-06 11:36:34,693:INFO: * Detected change in '/home/usanovich/Documentos/GDrive/Universidad/ProductosDatos/Clase7/taller-presencial-jmoncayo25/src/6b_api_server/autograding.py', reloading
+2024-04-06 11:36:34,732:INFO: * Restarting with stat
+2024-04-06 11:36:35,067:WARNING: * Debugger is active!
+2024-04-06 11:36:35,068:INFO: * Debugger PIN: 999-582-993
